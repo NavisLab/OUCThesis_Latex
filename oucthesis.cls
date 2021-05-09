@@ -345,7 +345,8 @@
   \begin{titlepage}%
     \centering
     \vspace*{36\bp@}
-    \sffamily\fontsize{18\bp@}{20\bp@}\@title
+    % \sffamily\fontsize{18\bp@}{20\bp@}\@title
+    \sffamily\heiti\zihao{3}\@title
 
     \vspace{140\bp@}
     \parbox[t][][t]{\textwidth}{%
